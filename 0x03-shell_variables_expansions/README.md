@@ -3,3 +3,5 @@
 2-path adds /action to the end of th PATH
 3-paths counts the number directories in the PATH
 4-global_variables prints environment variables
+5-local_variables prints local variables, environment variables and functions
+6-create_local_variable creates a local variable named BEST, with value School
