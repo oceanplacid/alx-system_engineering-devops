@@ -8,3 +8,4 @@
 7-create_global_variable creates a global variable called BEST with value School
 8-true_knowledge adds 128 and the value of a variable called TRUEKNOWLEDGE
 9-divide_and_rule divides variable POWER by variable DIVIDE
+10-love_exponent_breath creates a script that raises BREATH  to the power of LOVE
