@@ -7,3 +7,4 @@
 6-create_local_variable creates a local variable named BEST, with value School
 7-create_global_variable creates a global variable called BEST with value School
 8-true_knowledge adds 128 and the value of a variable called TRUEKNOWLEDGE
+9-divide_and_rule divides variable POWER by variable DIVIDE
