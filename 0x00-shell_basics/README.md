@@ -11,3 +11,4 @@
 10-back changes directory to the previous one
 11
 12-file_type prints the file type of the file "iamafile"
+13-create a symbolic link for /bin/ls
