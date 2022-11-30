@@ -9,7 +9,7 @@
 8-firstdelete deletes "betty" file from "/tmp/my_first_directory/" directory
 9-firstdiredeletion deletes "my_first_directory" in the "/tmp" directory
 10-back changes directory to the previous one
-11
+11-List files in the current directory, the parent director, and the boot directory
 12-file_type prints the file type of the file "iamafile"
 13-create a symbolic link for /bin/ls
 14-copy html file to parent directory if they don't already exist
